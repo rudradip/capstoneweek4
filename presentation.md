@@ -1,12 +1,12 @@
 Coursera Data Science Capstone: Course Project
 ========================================================
-author: Sriharsha
-date: December 30, 2016
+author: Rudradip Misra
+date: February 24, 2019
 
 Overview
 ========================================================
 
-If you haven't tried out the app, go [here](https://sriharshams.shinyapps.io/data-science-capstone/) to try it!
+If you haven't tried out the app, go [here](https://rudradip-misra.shinyapps.io/coursera-data-science-capstone-master/) to try it!
 
 - Predicts next word as the user types a sentence
 - Similar to the way most smart phone keyboards are implemented today using the technology of Swiftkey
@@ -14,7 +14,7 @@ If you haven't tried out the app, go [here](https://sriharshams.shinyapps.io/dat
 How To Use the App
 ========================================================
 
-![Instructions](./www/app.png)
+You need to enter one word and this app will predict the next word .
 
 
 Getting & Cleaning the Data
@@ -38,7 +38,7 @@ Underlying Algorithm
 Further Exploration
 ========================================================
 
-- The code is available on [GitHub](https://github.com/sriharshams/coursera-data-science-capstone)
+- The code is available on [GitHub](https://github.com/rudradip/capstoneweek4)
 - Further work can expand the main weakness of this approach: long-range context
     1. Current algorithm discards contextual information past 4-grams
     2. We can incorporate this into future work through clustering underlying training corpus/data and predicting what cluster the entire sentence would fall into
